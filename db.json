@@ -1,4 +1,21 @@
 {
+  "orders": [
+    {
+      "id": 1,
+       "date":"",
+      "price": 100
+    }
+  ],
+  "cart": [
+    {
+      "id": 1,
+      "brand": "twills",
+      "category": "men",
+      "image": "https://picsum.photos/200",
+      "price": 1099,
+      "title": "Men Linen Regular Fit"
+    }
+  ],
   "books": [
     {
       "id": 1,
@@ -12,38 +29,36 @@
       "borrowed": false
     }
   ],
-
   "users": [
     {
       "id": 1,
       "email": "abcd@gmail.com",
       "username": "Abcd",
       "password": "1234"
-    }   
+    }
   ],
-"companies":[
-	{
-		"id" : 1,
-    "company_logo": "https://logolook.net/wp-content/uploads/2021/11/HDFC-Bank-Logo.png",
-    "company_name": "HDFC Bank",
-    "company_type": "Bank",
-		"stock_exchange": "NSE",
-		"total_shares": 50000,
-		"cost_per_share": 4210,
-		"price_action": 12
-  },
-  {
-		"id" : 2,
-    "company_logo": "https://www.jetspot.in/wp-content/uploads/2018/03/reliance-logo.jpg",
-    "company_name": "Reliance Industries",
-    "company_type": "Oil",
-		"stock_exchange": "BSE",
-		"total_shares": 20000,
-		"cost_per_share": 2132,
-		"price_action": 4
-  }
-],
-
+  "companies": [
+    {
+      "id": 1,
+      "company_logo": "https://logolook.net/wp-content/uploads/2021/11/HDFC-Bank-Logo.png",
+      "company_name": "HDFC Bank",
+      "company_type": "Bank",
+      "stock_exchange": "NSE",
+      "total_shares": 50000,
+      "cost_per_share": 4210,
+      "price_action": 12
+    },
+    {
+      "id": 2,
+      "company_logo": "https://www.jetspot.in/wp-content/uploads/2018/03/reliance-logo.jpg",
+      "company_name": "Reliance Industries",
+      "company_type": "Oil",
+      "stock_exchange": "BSE",
+      "total_shares": 20000,
+      "cost_per_share": 2132,
+      "price_action": 4
+    }
+  ],
   "blogs": [
     {
       "id": 1,
@@ -54,8 +69,14 @@
       "date": "2017-06-01",
       "likes": 24,
       "comments": [
-        { "username": "Jane", "content": "Good One" },
-        { "username": "Bob", "content": "Loved It!" }
+        {
+          "username": "Jane",
+          "content": "Good One"
+        },
+        {
+          "username": "Bob",
+          "content": "Loved It!"
+        }
       ]
     }
   ]
