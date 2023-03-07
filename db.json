@@ -61,7 +61,8 @@
       "id": 1,
       "email": "abcd@gmail.com",
       "username": "Abcd",
-      "password": "1234"
+      "password": "1234",
+      "tasks":["task1","task2","task3","task4","task5"]
     }
   ],
   "companies": [
