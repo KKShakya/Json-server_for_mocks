@@ -61,8 +61,7 @@
       "id": 1,
       "email": "abcd@gmail.com",
       "username": "Abcd",
-      "password": "1234",
-      "tasks":["task1","task2","task3","task4","task5"]
+      "password": "1234"
     }
   ],
   "companies": [
@@ -106,6 +105,20 @@
           "content": "Loved It!"
         }
       ]
+    }
+  ],
+
+  "hotels":[
+    {
+      "id":1,
+      "category": "Family",
+    "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
+    "type_of_room": "AC",
+    "bed_type": "Double",
+		"no_of_persons":"2",
+		"capacity":"3",
+		"cost":"4000",
+		"booked":false
     }
   ]
 }
