@@ -1,4 +1,130 @@
 {
+  "questionBank":[
+      {
+        "Maths":[
+          {
+            "id":1,
+            "ques":"Maths Question 1"
+          },
+      
+          {
+            "id":2,
+            "ques":"Maths Question 2"
+          },
+          {
+            "id":3,
+            "ques":"Maths Question 3"
+          },
+          {
+            "id":4,
+            "ques":"Maths Question 4"
+          },
+          {
+            "id":5,
+            "ques":"Maths Question 5"
+          },
+          {
+            "id":6,
+            "ques":"Maths Question 6"
+          },
+          {
+            "id":7,
+            "ques":"Maths Question 7"
+          },
+          {
+            "id":8,
+            "ques":"Maths Question 8"
+          },
+          {
+            "id":9,
+            "ques":"Maths Question 9"
+          }
+        ],
+        "Physics":[
+          {
+            "id":1,
+            "ques":"Physics Question 1"
+          },
+
+          {
+            "id":2,
+            "ques":"Physics Question 2"
+          },
+          {
+            "id":3,
+            "ques":"Physics Question 3"
+          },
+          {
+            "id":4,
+            "ques":"Physics Question 4"
+          },
+          {
+            "id":5,
+            "ques":"Physics Question 5"
+          },
+          {
+            "id":6,
+            "ques":"Physics Question 6"
+          },
+          {
+            "id":7,
+            "ques":"Physics Question 7"
+          },
+          {
+            "id":8,
+            "ques":"Physics Question 8"
+          },
+          {
+            "id":9,
+            "ques":"Physics Question 9"
+          }
+        ],
+        "Chemistry":[
+          {
+            "id":1,
+            "ques":"Chemistry Question 1"
+          },
+          {
+            "id":1,
+            "ques":"Chemistry Question 1"
+          },
+          {
+            "id":2,
+            "ques":"Chemistry Question 2"
+          },
+          {
+            "id":3,
+            "ques":"Chemistry Question 3"
+          },
+          {
+            "id":4,
+            "ques":"Chemistry Question 4"
+          },
+          {
+            "id":5,
+            "ques":"Chemistry Question 5"
+          },
+          {
+            "id":6,
+            "ques":"Chemistry Question 6"
+          },
+          {
+            "id":7,
+            "ques":"Chemistry Question 7"
+          },
+          {
+            "id":8,
+            "ques":"Chemistry Question 8"
+          },
+          {
+            "id":9,
+            "ques":"Chemistry Question 9"
+          }
+        ]
+      }
+  ],
+
+
   "jobs": [
     {
       "id": 1,
