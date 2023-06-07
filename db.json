@@ -1,5 +1,5 @@
 {
-  "questionBank":[
+  "questionBank":{
       {
         "Maths":[
           {
@@ -122,7 +122,7 @@
           }
         ]
       }
-  ],
+    },
 
 
   "jobs": [
