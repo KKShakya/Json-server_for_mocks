@@ -1,6 +1,6 @@
 {
   "questionBank":{
-      {
+      
         "Maths":[
           {
             "id":1,
@@ -121,7 +121,7 @@
             "ques":"Chemistry Question 9"
           }
         ]
-      }
+      
     },
 
 
